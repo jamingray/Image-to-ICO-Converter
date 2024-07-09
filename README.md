@@ -20,6 +20,7 @@ Date: 07-08-2024
 Installing prerequisites:
 
 pip install pillow
+
 pip install pyinstaller
 
 Build Windows executable:
